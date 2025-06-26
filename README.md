@@ -46,3 +46,5 @@ Limitations
 Engine Constraints: Existing optimizations (e.g., Anvil’s NPC limits, REDengine 4’s bugs) might resist full integration without major updates.
 Development Cost: Modding is viable, but official adoption requires significant resources from CD Projekt Red, Ubisoft, or NetherRealm.
 Hardware Demand: Needs optimization for mid-range systems.
+
+developed with grok3
