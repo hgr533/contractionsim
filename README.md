@@ -52,4 +52,4 @@ Educational Simulator: A tool for teaching cosmology and neuroscience, with inte
 Art Installation: A real-time visual art piece projecting cosmic and neural patterns, using UE5 for gallery display.
 AI Research Platform: A testbed for neural AI development, integrating xAI’s API to explore brain-cosmic parallels.
 
-developed with grok3
+developed with AI
