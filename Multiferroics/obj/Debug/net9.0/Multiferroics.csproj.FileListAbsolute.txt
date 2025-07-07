@@ -1,0 +1,4 @@
+C:\Users\hgros\source\repos\Multiferroics\obj\Debug\net9.0\Multiferroics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hgros\source\repos\Multiferroics\obj\Debug\net9.0\Multiferroics.AssemblyInfoInputs.cache
+C:\Users\hgros\source\repos\Multiferroics\obj\Debug\net9.0\Multiferroics.AssemblyInfo.cs
+C:\Users\hgros\source\repos\Multiferroics\obj\Debug\net9.0\Multiferroics.csproj.CoreCompileInputs.cache
